@@ -1,2 +1,2 @@
-# terraform-module-netbox
-terraform-module-netbox
+# Simple module to deploy helm charts with terraform
+for terraform inputs, see file: terraform-docs.md 
